@@ -12,7 +12,10 @@ const Features = () => {
         <div className="container">
           <SectionTitle
             title="Main Features"
+            paragraph=""
+            width="570px"
             center
+            mb="100px"
           />
 
           <div className="grid grid-cols-1 gap-x-8 gap-y-14 md:grid-cols-2 lg:grid-cols-3">
