@@ -8,7 +8,8 @@ const Hero = () => {
         className="relative z-10 overflow-hidden h-screen pt-[120px] pb-16 md:pt-[150px] md:pb-[120px] xl:pt-[180px] xl:pb-[160px] 2xl:pt-[210px] 2xl:pb-[200px]"
       >
         <div className="container">
-          <div className="-mx-4 flex flex-wrap">
+          <div className="-mx-4 flex flex-wrap hhh">
+
             <div className="w-full px-4">
               <div
                 className="wow fadeInUp mx-auto max-w-[800px] text-center"
@@ -18,7 +19,7 @@ const Hero = () => {
                 Connecting Hands and Words: Sign Language Translator.
                 </h1>
                 <p className="mb-12 text-base font-medium !leading-relaxed text-[#252525] dark:text-white dark:opacity-90 sm:text-lg md:text-xl">
-                Celebrate the richness of sign language and unlock a world of communication with our Sign Language Translation website. We're dedicated to breaking down language barriers by seamlessly translating sign language gestures into text.
+                Celebrate the richness of sign language and unlock a world of communication with our Sign Language Translation website. We are dedicated to breaking down language barriers by seamlessly translating sign language gestures into text.
                 </p>
                 <div className="flex flex-col items-center justify-center space-y-4 sm:flex-row sm:space-x-4 sm:space-y-0">
                 <Link
